@@ -1,1 +1,1 @@
-## Inflearn Java Basic Study
+# Inflearn Java Basic Study
